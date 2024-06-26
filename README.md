@@ -8,3 +8,5 @@ This bachelor's thesis focuses on the development of an advanced system for auto
 | Proposed by supervisor                 | A     |
 | Proposed by reviewer                   | A     |
 | Bachelor's Thesis and its defense      | B     |
+
+https://www.vut.cz/en/students/final-thesis/detail/155626
