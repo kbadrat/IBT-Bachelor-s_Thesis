@@ -1,0 +1,5 @@
+Hráč 1: 8C, QS.
+Hráč 2: 9H, JC.
+Hráč 3: 7S, AS.
+Hráč 4: 6S, 9S.
+Hráč 5: JH, QC.
